@@ -1,0 +1,13 @@
+C:\Users\MONSTERMC\Desktop\New folder (8)\MonitoramentoCPURAM\bin\Debug\MonitoramentoCPURAM.exe.config
+C:\Users\MONSTERMC\Desktop\New folder (8)\MonitoramentoCPURAM\bin\Debug\MonitoramentoCPURAM.exe
+C:\Users\MONSTERMC\Desktop\New folder (8)\MonitoramentoCPURAM\bin\Debug\MonitoramentoCPURAM.pdb
+C:\Users\MONSTERMC\Desktop\New folder (8)\MonitoramentoCPURAM\bin\Debug\MetroFramework.Design.dll
+C:\Users\MONSTERMC\Desktop\New folder (8)\MonitoramentoCPURAM\bin\Debug\MetroFramework.dll
+C:\Users\MONSTERMC\Desktop\New folder (8)\MonitoramentoCPURAM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MONSTERMC\Desktop\New folder (8)\MonitoramentoCPURAM\obj\Debug\MonitoramentoCPURAM.Form1.resources
+C:\Users\MONSTERMC\Desktop\New folder (8)\MonitoramentoCPURAM\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Desktop\New folder (8)\MonitoramentoCPURAM\obj\Debug\MonitoramentoCPURAM.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\New folder (8)\MonitoramentoCPURAM\obj\Debug\MonitoramentoCPURAM.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\New folder (8)\MonitoramentoCPURAM\obj\Debug\MonitoramentoCPURAM.vbproj.CopyComplete
+C:\Users\MONSTERMC\Desktop\New folder (8)\MonitoramentoCPURAM\obj\Debug\MonitoramentoCPURAM.exe
+C:\Users\MONSTERMC\Desktop\New folder (8)\MonitoramentoCPURAM\obj\Debug\MonitoramentoCPURAM.pdb
